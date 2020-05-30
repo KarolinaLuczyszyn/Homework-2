@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab7v3</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="last_known_loc_msg" />
+    <string name="clear_memory">CLEAR \n MEMORY</string>
+    <string name="acceleration">Acceleration:</string>
+
+</resources>
